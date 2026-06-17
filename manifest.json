@@ -1,0 +1,14 @@
+{
+  "name": "Driftless",
+  "short_name": "Driftless",
+  "description": "A calm, anonymous place to feel more grounded.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F3EC",
+  "theme_color": "#F7F3EC",
+  "icons": [
+    { "src": "icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
